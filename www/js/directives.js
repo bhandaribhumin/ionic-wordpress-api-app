@@ -1,4 +1,4 @@
-angular.module('your_app_name.directives', [])
+angular.module('ionic_wp_app.directives', [])
 
 .directive('recursiveMenu', function($compile) {
 	return {

@@ -8,15 +8,15 @@ angular.module('underscore', [])
 // angular.module is a global place for creating, registering and retrieving Angular modules
 // 'starter' is the name of this angular module example (also set in a <body> attribute in index.html)
 // the 2nd parameter is an array of 'requires'
-angular.module('your_app_name', [
+angular.module('ionic_wp_app', [
   'ionic',
-  'your_app_name.directives',
-  'your_app_name.controllers',
-  'your_app_name.views',
-  'your_app_name.services',
-  'your_app_name.config',
-  'your_app_name.factories',
-  'your_app_name.filters',
+  'ionic_wp_app.directives',
+  'ionic_wp_app.controllers',
+  'ionic_wp_app.views',
+  'ionic_wp_app.services',
+  'ionic_wp_app.config',
+  'ionic_wp_app.factories',
+  'ionic_wp_app.filters',
   'ngMap',
   'angularMoment',
   'underscore',

@@ -1,4 +1,4 @@
-angular.module('your_app_name.controllers', [])
+angular.module('ionic_wp_app.controllers', [])
 
 // APP - RIGHT MENU
 .controller('AppCtrl', function($scope, AuthService) {
